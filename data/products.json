@@ -1,0 +1,114 @@
+[
+    {
+        "id": 1,
+        "image": "../img/products/f1.jpg",
+        "brand": "adidas",
+        "name": "Cartoon Astronaut T-Shirts",
+        "price": "$78",
+        "stars": 5,
+        "smallImages": [
+            "../img/products/f1.jpg",
+            "../img/products/f2.jpg",
+            "../img/products/f3.jpg",
+            "../img/products/f4.jpg"
+        ]
+    },
+    {
+        "id": 2,
+        "image": "../img/products/f2.jpg",
+        "brand": "adidas",
+        "name": "Cartoon Astronaut T-Shirts",
+        "price": "$81",
+        "stars": 5,
+        "smallImages": [
+            "../img/products/f2.jpg",
+            "../img/products/f1.jpg",
+            "../img/products/f3.jpg",
+            "../img/products/f4.jpg"
+        ]
+    },
+    {
+        "id": 3,
+        "image": "../img/products/f3.jpg",
+        "brand": "adidas",
+        "name": "Cartoon Astronaut T-Shirts",
+        "price": "$85",
+        "stars": 5,
+        "smallImages": [
+            "../img/products/f3.jpg",
+            "../img/products/f1.jpg",
+            "../img/products/f2.jpg",
+            "../img/products/f4.jpg"
+        ]
+    },
+    {
+        "id": 4,
+        "image": "../img/products/f4.jpg",
+        "brand": "adidas",
+        "name": "Cartoon Astronaut T-Shirts",
+        "price": "$80",
+        "stars": 5,
+        "smallImages": [
+            "../img/products/f4.jpg",
+            "../img/products/f1.jpg",
+            "../img/products/f2.jpg",
+            "../img/products/f3.jpg"
+        ]
+    },
+    {
+        "id": 5,
+        "image": "../img/products/f5.jpg",
+        "brand": "adidas",
+        "name": "Retro Patchwork Shirt",
+        "price": "$70",
+        "stars": 5,
+        "smallImages": [
+            "../img/products/f5.jpg",
+            "../img/products/f6.jpg",
+            "../img/products/f7.jpg",
+            "../img/products/f8.jpg"
+        ]
+    },
+    {
+        "id": 6,
+        "image": "../img/products/f6.jpg",
+        "brand": "adidas",
+        "name": "Floral Embroidered Linen Pants",
+        "price": "$83",
+        "stars": 5,
+        "smallImages": [
+            "../img/products/f6.jpg",
+            "../img/products/f5.jpg",
+            "../img/products/f7.jpg",
+            "../img/products/f8.jpg"
+        ]
+    },
+    {
+        "id": 7,
+        "image": "../img/products/f7.jpg",
+        "brand": "adidas",
+        "name": "Abstract Patterned Oversized Pants",
+        "price": "$65",
+        "stars": 5,
+        "smallImages": [
+            "../img/products/f7.jpg",
+            "../img/products/f5.jpg",
+            "../img/products/f6.jpg",
+            "../img/products/f8.jpg"
+        ]
+    },
+    {
+        "id": 8,
+        "image": "../img/products/f8.jpg",
+        "brand": "adidas",
+        "name": "Abstract Patterned Oversized Shirt",
+        "price": "$80",
+        "stars": 5,
+        "smallImages": [
+            "../img/products/f8.jpg",
+            "../img/products/f5.jpg",
+            "../img/products/f6.jpg",
+            "../img/products/f7.jpg"
+        ]
+    }
+]

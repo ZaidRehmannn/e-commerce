@@ -1,0 +1,114 @@
+[
+    {
+        "id": 9,
+        "image": "../img/products/n1.jpg",
+        "brand": "adidas",
+        "name": "Plain Formal Shirt Blue",
+        "price": "$90",
+        "stars": 5,
+        "smallImages": [
+            "../img/products/n1.jpg",
+            "../img/products/n2.jpg",
+            "../img/products/n3.jpg",
+            "../img/products/n4.jpg"
+        ]
+    },
+    {
+        "id": 10,
+        "image": "../img/products/n2.jpg",
+        "brand": "adidas",
+        "name": "Checkered Formal Shirt",
+        "price": "$95",
+        "stars": 5,
+        "smallImages": [
+            "../img/products/n2.jpg",
+            "../img/products/n1.jpg",
+            "../img/products/n3.jpg",
+            "../img/products/n4.jpg"
+        ]
+    },
+    {
+        "id": 11,
+        "image": "../img/products/n3.jpg",
+        "brand": "adidas",
+        "name": "Plain Formal Shirt White",
+        "price": "$90",
+        "stars": 5,
+        "smallImages": [
+            "../img/products/n3.jpg",
+            "../img/products/n1.jpg",
+            "../img/products/n2.jpg",
+            "../img/products/n4.jpg"
+        ]
+    },
+    {
+        "id": 12,
+        "image": "../img/products/n4.jpg",
+        "brand": "adidas",
+        "name": "Camo Formal Shirt",
+        "price": "$80",
+        "stars": 5,
+        "smallImages": [
+            "../img/products/n4.jpg",
+            "../img/products/n1.jpg",
+            "../img/products/n2.jpg",
+            "../img/products/n3.jpg"
+        ]
+    },
+    {
+        "id": 13,
+        "image": "../img/products/n5.jpg",
+        "brand": "adidas",
+        "name": "Denim Formal Shirt Blue",
+        "price": "$95",
+        "stars": 5,
+        "smallImages": [
+            "../img/products/n5.jpg",
+            "../img/products/n6.jpg",
+            "../img/products/n7.jpg",
+            "../img/products/n8.jpg"
+        ]
+    },
+    {
+        "id": 14,
+        "image": "../img/products/n6.jpg",
+        "brand": "adidas",
+        "name": "White Jeans Shorts",
+        "price": "$70",
+        "stars": 5,
+        "smallImages": [
+            "../img/products/n6.jpg",
+            "../img/products/n5.jpg",
+            "../img/products/n7.jpg",
+            "../img/products/n8.jpg"
+        ]
+    },
+    {
+        "id": 15,
+        "image": "../img/products/n7.jpg",
+        "brand": "adidas",
+        "name": "Plain Brown Shirt",
+        "price": "$73",
+        "stars": 5,
+        "smallImages": [
+            "../img/products/n7.jpg",
+            "../img/products/n5.jpg",
+            "../img/products/n6.jpg",
+            "../img/products/n8.jpg"
+        ]
+    },
+    {
+        "id": 16,
+        "image": "../img/products/n8.jpg",
+        "brand": "adidas",
+        "name": "Plain Black T-Shirt",
+        "price": "$80",
+        "stars": 5,
+        "smallImages": [
+            "../img/products/n8.jpg",
+            "../img/products/n5.jpg",
+            "../img/products/n6.jpg",
+            "../img/products/n7.jpg"
+        ]
+    }
+]
