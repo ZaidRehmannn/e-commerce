@@ -18,4 +18,4 @@ This project is a responsive e-commerce website built using HTML, CSS, and JavaS
 
 ## Live Demo
 
-Check out the live version of the project: [Live Demo](https://clinquant-gumdrop-7d9c33.netlify.app/)
+Check out the live version of the project: [Live Demo](https://ecommerce-my-clothingstore.netlify.app/)
